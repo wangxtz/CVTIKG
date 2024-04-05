@@ -1,1 +1,2 @@
-CVTIKG
+# CVTIKG
+Official repository for MalKG
