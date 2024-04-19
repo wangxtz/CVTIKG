@@ -1,3 +1,4 @@
 # CVTIKG
 Official repository for CVTIKG  
-**Note:** The thesis will be published soon. Please wait.
+**Paper title:** A Span-based Multivariate Information-aware Embedding Network for Joint Relational Triplet Extraction of Threat Intelligence
+**Doi:** https://doi.org/10.1016/j.knosys.2024.111829
